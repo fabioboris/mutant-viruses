@@ -100,7 +100,7 @@ function init() {
 
   window.setInterval(updateItems, 60);
   window.setInterval(updateColors, 3000);
-  window.setInterval(updateSpeed(), 6000);
+  window.setInterval(updateSpeed, 6000);
 }
 
 const viruses = {
