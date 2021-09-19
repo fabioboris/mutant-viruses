@@ -1,6 +1,6 @@
 {
   "name": "mutant-viruses",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The mutant viruses web animation",
   "main": "index.js",
   "scripts": {
